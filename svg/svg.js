@@ -50,7 +50,7 @@ function desenare(beta,gamma)
 
    desenare(e.beta,e.gamma);
  }
-/*
+
 function on_montion_uab(e)
 {
   var acc = e.accelerationIncludingGravity;
@@ -66,4 +66,4 @@ function on_montion_uab(e)
 
   desenare(beta, gamma);
 }
-*/
+
