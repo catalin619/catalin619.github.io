@@ -42,8 +42,8 @@ class model {
     if(numar == this.panaLa)
       alert("Corect!");
     else {
-      alert("Incorect!");
       window.navigator.vibrate(200);
+      alert("Incorect!");
     }
    }
 }
