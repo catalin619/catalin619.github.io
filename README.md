@@ -13,3 +13,5 @@ Aplicatia genereaza un numar intamplator de cercuri pe ecran iar dupa ce utiliza
 Build: pentru web.
 
 Foloseste: HTML5, JavaScript.
+
+![](imagine/pozica.png)
